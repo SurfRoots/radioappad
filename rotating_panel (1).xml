@@ -2,28 +2,28 @@
 
   <panel>
     <number>1</number>
-    <image>https://sample.com/image1.jpg</image>
-    <url>https://sample.com/donate</url>
+    <image>https://github.com/SurfRoots/radioappad/blob/main/Panel2.jpg?raw=true</image>
+    <url>https://surfroots.com</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>2</number>
     <image>https://sample.com/image2.jpg</image>
-    <url>https://sample.com/news</url>
+    <url>https://surfroots.tv/</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>3</number>
     <image>https://sample.com/image3.jpg</image>
-    <url>https://sample.com/events</url>
+    <url>https://surfroots.com/collections</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>4</number>
-    <image>https://sample.com/image2.jpg</image>
+    <image>https://www.instagram.com/surfroots/</image>
     <url>https://sample.com/news</url>
     <redirect>n</redirect>
   </panel>
@@ -31,7 +31,7 @@
   <panel>
     <number>5</number>
     <image>https://sample.com/image3.jpg</image>
-    <url>https://sample.com/events</url>
+    <url>https://www.elevadodrinks.com</url>
     <redirect>n</redirect>
   </panel>
 
